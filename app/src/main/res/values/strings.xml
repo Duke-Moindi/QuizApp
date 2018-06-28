@@ -1,3 +1,36 @@
 <resources>
     <string name="app_name">QuizApp</string>
+    <string name="question_one">1. .......... the better team, we lost the match.</string>
+    <string name="aq1a">Despite being</string>
+    <string name="aq1b">Despite of being</string>
+    <string name="aq1c">Although</string>
+    <string name="aq1d">Despite the fact</string>
+    <string name="_1">1</string>
+    <string name="question_two">2. When I got home, someone ............... the window.</string>
+    <string name="aq2a">broke</string>
+    <string name="aq2b">brokes</string>
+    <string name="aq2c">had broken</string>
+    <string name="aq2d">hadn\'t broken</string>
+    <string name="question_3">3. She has been ....... of murdering her husband.</string>
+    <string name="aq3a">charged</string>
+    <string name="aq3b">arrested</string>
+    <string name="aq3c">blamed</string>
+    <string name="aq3d">accused</string>
+    <string name="question_4">4. Drive ............... otherwise you\'ll have an accident.</string>
+    <string name="aq4a">more careful</string>
+    <string name="aq4b">less carefully</string>
+    <string name="aq4c">more carefully</string>
+    <string name="aq4d">much more careful</string>
+    <string name="aq5a">are allowed</string>
+    <string name="aq5b">have</string>
+    <string name="aq5c">aren\'t allowed</string>
+    <string name="aq5d">can\'t</string>
+    <string name="question_5">5. You ............................. to use your mobile so there\'s no point in leaving it on.</string>
+    <string name="question_6">Which of the following words are verbs?</string>
+    <string name="run">Run</string>
+    <string name="dog">Dog</string>
+    <string name="eat">Eat</string>
+    <string name="walk">Walk</string>
+    <string name="question_7">Briefly describe yourself</string>
+    <string name="describe">Describe yourself here!</string>
 </resources>
