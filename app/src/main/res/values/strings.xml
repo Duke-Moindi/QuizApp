@@ -26,11 +26,11 @@
     <string name="aq5c">aren\'t allowed</string>
     <string name="aq5d">can\'t</string>
     <string name="question_5">5. You ............................. to use your mobile so there\'s no point in leaving it on.</string>
-    <string name="question_6">Which of the following words are verbs?</string>
+    <string name="question_6">6. Which of the following words are verbs?</string>
     <string name="run">Run</string>
     <string name="dog">Dog</string>
     <string name="eat">Eat</string>
     <string name="walk">Walk</string>
-    <string name="question_7">Briefly describe yourself</string>
+    <string name="question_7">7. Briefly describe yourself</string>
     <string name="describe">Describe yourself here!</string>
 </resources>
